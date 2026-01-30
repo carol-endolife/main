@@ -6,13 +6,13 @@ export const TipsSection = () => {
 
   const tips = [
     {
-      icon: Sparkles,
-      title: 'Magnesium Magic',
-      description: 'Relaxes muscles, eases cramps, and supports hormone balance naturally',
+      icon: Activity,
+      title: 'Exercise',
+      description: 'Relaxes & strength muscles, eases cramps, and supports hormone balance naturally',
       color: 'bg-lavender-100'
     },
     {
-      icon: Activity,
+      icon: Sparkles,
       title: 'Blood Sugar Balance',
       description: 'Stable levels reduce inflammation and may slow disease progression',
       color: 'bg-peach-100'
@@ -31,8 +31,8 @@ export const TipsSection = () => {
     },
     {
       icon: Search,
-      title: 'Hidden Root Causes',
-      description: "Beyond 'bad periods' – understanding what's really happening in your body",
+      title: 'Mindfulness',
+      description: "Understanding what's really happening in your body",
       color: 'bg-secondary'
     },
     {
@@ -60,7 +60,7 @@ export const TipsSection = () => {
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               Small changes that create big transformations. These are the foundations 
-              that helped me experience weeks without flares.
+              that helped me experience a better life with Endometriosis.
             </p>
           </div>
 
