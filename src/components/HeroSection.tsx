@@ -65,7 +65,7 @@ export const HeroSection = ({ onBookClick }: HeroSectionProps) => {
         </Button>
 
         <p className="text-sm text-muted-foreground mt-6">
-          Free or affordable intake call available
+          Free 30 min intake call
         </p>
       </div>
 
