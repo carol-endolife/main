@@ -47,7 +47,7 @@ export const BookingModal = ({ isOpen, onClose }: BookingModalProps) => {
           </h3>
           
           <p className="text-muted-foreground mb-6">
-            Email me to book your free or affordable intake call. I can't wait to support you on your healing journey.
+            Email me to book your free 30 min intake call. I can't wait to support you on your healing journey.
           </p>
 
           <div className="bg-muted rounded-2xl p-4 mb-6">
