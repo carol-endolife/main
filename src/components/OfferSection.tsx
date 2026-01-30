@@ -99,7 +99,7 @@ export const OfferSection = ({ onBookClick }: OfferSectionProps) => {
           {/* Pricing */}
           <div className="text-center bg-card rounded-3xl p-8 md:p-12 shadow-card">
             <h3 className="font-heading text-2xl mb-2">Investment in Your Healing</h3>
-            <p className="text-muted-foreground mb-8">Online via Zoom • Flexible scheduling</p>
+            <p className="text-muted-foreground mb-8">Online • Flexible scheduling</p>
             
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-8">
               <div className="bg-muted rounded-2xl p-6 min-w-[200px]">
@@ -111,8 +111,8 @@ export const OfferSection = ({ onBookClick }: OfferSectionProps) => {
                 <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-ribbon text-ribbon-foreground text-xs font-semibold px-3 py-1 rounded-full">
                   Best Value
                 </div>
-                <p className="text-sm text-muted-foreground mb-1">4-Session Package</p>
-                <p className="font-heading text-3xl text-primary">$350</p>
+                <p className="text-sm text-muted-foreground mb-1">5-Session Package</p>
+                <p className="font-heading text-3xl text-primary">$450</p>
                 <p className="text-sm text-muted-foreground">Save $50</p>
               </div>
             </div>
@@ -122,7 +122,7 @@ export const OfferSection = ({ onBookClick }: OfferSectionProps) => {
               variant="warm"
               size="lg"
             >
-              Ready to start? Book your intake →
+              Book your session→
             </Button>
           </div>
         </div>
