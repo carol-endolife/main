@@ -60,7 +60,7 @@ export const HeroSection = ({ onBookClick }: HeroSectionProps) => {
           size="xl"
           className="animate-pulse-soft"
         >
-          Book Your Free 30 min Intake Session
+          Book Your Intake
           <span className="ml-1">💛</span>
         </Button>
 
