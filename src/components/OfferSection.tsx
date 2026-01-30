@@ -13,17 +13,17 @@ export const OfferSection = ({ onBookClick }: OfferSectionProps) => {
     {
       icon: Leaf,
       title: 'Anti-Inflammatory Foods',
-      description: 'Wild salmon/omega-3s, turmeric golden milk, mixed berries, magnesium-rich greens'
+      description: 'Introduction of new foods and supplements to help & support your gut'
     },
     {
       icon: Sparkles,
-      title: 'Blood Sugar Balance',
-      description: 'Strategic eating to slow disease progression and reduce inflammation'
+      title: 'Hormonal Balance',
+      description: 'Strategic eating to slow disease progression and help hormonal balance'
     },
     {
       icon: Heart,
       title: 'Gentle Movement',
-      description: 'Yoga, walking, Pilates – movement that heals, not harms'
+      description: 'Yoga, walking, Pilates – movement that heals & support your mind'
     },
     {
       icon: Moon,
@@ -80,10 +80,10 @@ export const OfferSection = ({ onBookClick }: OfferSectionProps) => {
                 'Reduce daily pain and cramps',
                 'Manage heavy bleeding naturally',
                 'Decrease inflammation and bloating',
-                'Balance hormones without harsh treatments',
+                'Balance hormones naturally without treatments',
                 'Improve sleep quality',
-                'Build sustainable energy',
-                'Reduce flare-ups and triggers',
+                'Focus on Mental Health & Mindfulness',
+                'Spiritually & Redefining Healing',
                 'Feel more like yourself again'
               ].map((item, index) => (
                 <div key={index} className="flex items-center gap-3">
