@@ -44,8 +44,8 @@ export const FooterSection = ({ onBookClick }: FooterSectionProps) => {
               Endometriosis<span className="text-primary">🎗️</span>Life
             </h3>
             <p className="text-sm text-muted-foreground">
-              Holistic support for women with endometriosis and adenomyosis. 
-              Science-backed, compassion-led.
+              Holistic support for women with endometriosis & adenomyosis. 
+              Science-backed for a natural approach. No medical advice.
             </p>
           </div>
 
