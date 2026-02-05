@@ -43,8 +43,8 @@ export const AboutSection = () => {
                 <p className="font-heading text-xl mb-2">Carol</p>
                 <div className="space-y-1 text-sm text-muted-foreground">
                   <p>Woman with Endo & Adeno</p>
-                  <p>Osteosarcoma survivor at 13 💛</p>
-                  <p>MSc Chemical Engineering</p>
+                  <p>Childhood Cancer Survivor at 13 💛</p>
+                  <p>MSc Chemical Engineering - All content is Science-Based</p>
                   <p className="text-primary font-medium">Holistic Endo Focus</p>
                 </div>
                 
