@@ -1,5 +1,5 @@
 import { useScrollAnimation } from '@/hooks/useScrollAnimation';
-import carolImage from '@/assets/carol-portrait.jpg';
+import carolImage from '@/assets/Screenshot_20250627_092416_Pinterest.jpg';
 import { Twitter } from 'lucide-react';
 
 export const AboutSection = () => {
